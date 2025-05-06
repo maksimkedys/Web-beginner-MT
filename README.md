@@ -8,7 +8,6 @@ A responsive personal portfolio website for Maria Dumanska, a consultant-analyst
 ├── index.html           # Homepage with about section
 ├── css/
 │   └── style.css        # Main stylesheet
-├── js/                  # JavaScript files (if needed)
 ├── images/              # Image assets
 └── pages/
     ├── skills.html      # Skills page
